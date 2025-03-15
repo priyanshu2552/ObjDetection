@@ -6,7 +6,7 @@ A full-stack MERN application that detects objects in uploaded images using AI m
 ✅ Secure and optimized for performance
 
 **🛠️ Tech Stack**
-Frontend: React, Axios, HTML5, CSS3
+Frontend: React, Axios, HTML5, CSS3 
 Backend: Node.js, Express.js
 AI Model API: Hugging Face API (DETR ResNet-50)
 Deployment: Render
