@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 5000;
 
 // Middleware
 app.use(cors({
-    origin: ['http://localhost:3000', 'https://your-frontend-project.vercel.app']
+    origin: ['https://objdetection-3.onrender.com']
 }));
 app.use(express.json());
 app.use(express.static("uploads"));
