@@ -21,7 +21,7 @@ function ImageUpload({ setDetectionData }) {
 
         try {
             const response = await axios.post(
-                'http://localhost:5000/api/detect/image', 
+                'https://objdetection-2i3l.onrender.com/api/detect/image', 
                 formData,
                 { headers: { 'Content-Type': 'multipart/form-data' } }
             );
