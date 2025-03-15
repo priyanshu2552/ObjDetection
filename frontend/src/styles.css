@@ -1,0 +1,28 @@
+.app-container {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.upload-container {
+  margin: 20px 0;
+}
+
+button {
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.result-container {
+  margin-top: 20px;
+  text-align: left;
+  border-top: 2px solid #ddd;
+  padding-top: 10px;
+}
+
+.result-item {
+  padding: 5px 0;
+}
